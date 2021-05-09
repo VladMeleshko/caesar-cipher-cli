@@ -1,6 +1,6 @@
 # Welcome to caesar_cli
 
-## To run this cli enter command node main.js -a encode -s 1
+## To run this cli enter command: node main.js -a encode -s 1
 
 ## CLI consume next argument: 
 ### -Required 
